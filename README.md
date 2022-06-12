@@ -1,3 +1,24 @@
+#Link of the movie library application
+https://glittery-speculoos-5bbbcc.netlify.app/
+
+#APIs Used
+##The Open Movie Database APIs
+
+Generate API key from : http://www.omdbapi.com/apikey.aspx
+
+API Info
+Method: GET
+Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}
+Movie Details URL: https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}
+
+Font -
+Font Link: <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+
+Libraries used -
+styled-components
+axios
+react-scripts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
